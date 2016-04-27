@@ -4,6 +4,7 @@
 
 ## Manuel Guillermo Ochoa
 ---
+### Configure ```npm install```
 ### Run ```npm start```
 ### localhost:3000
 ## Metodos HTTP
